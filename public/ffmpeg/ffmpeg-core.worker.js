@@ -1,0 +1,1 @@
+try { self.importScripts('/ffmpeg/ffmpeg-core.js'); } catch (e) { console.error('ffmpeg worker shim failed', e); }

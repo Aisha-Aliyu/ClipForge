@@ -9,8 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.908.0",
-    "@aws-sdk/s3-request-presigner": "^3.908.0",
+    "@aws-sdk/client-s3": "^3.1166.0",
+    "@aws-sdk/s3-request-presigner": "^3.1166.0",
     "@ffmpeg/core": "^0.12.10",
     "@ffmpeg/ffmpeg": "^0.10.1",
     "@ffmpeg/util": "^0.12.2",
